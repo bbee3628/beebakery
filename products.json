@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Tiramisu cake",
+        "price": 16,
+        "image": "images/tiramisucake.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Strawberry cake",
+        "price": 12,
+        "image": "images/strawberrycake.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mango cake",
+        "price": 12,
+        "image": "images/mangocake.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Fruit cake",
+        "price": 12,
+        "image": "images/fruitcake.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Cheese cake",
+        "price": 15,
+        "image": "images/cheesecake.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Cupcake",
+        "price": 10,
+        "image": "images/cupcake.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Oreo cake",
+        "price": 15,
+        "image": "images/oreocake.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Shuffle",
+        "price": 12,
+        "image": "images/shuffle.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Pancake",
+        "price": 12,
+        "image": "images/pancake.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Pudding",
+        "price": 10,
+        "image": "images/pudding.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Mousse",
+        "price": 15,
+        "image": "images/mousse.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Macaron",
+        "price": 18,
+        "image": "images/macaron.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Eggtart",
+        "price": 4,
+        "image": "images/eggtart.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Cheesetart",
+        "price": 5,
+        "image": "images/cheesetart.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Baumkuchen",
+        "price": 12,
+        "image": "images/baumkuchen.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Cookies",
+        "price": 3,
+        "image": "images/cookies.jpg"
+    }
+]
