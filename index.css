@@ -113,6 +113,7 @@ header .icon-cart span {
     color:#033B5F;
     padding: 10px 20px;
     border-radius:5px;
+    text-decoration: none;
 }
 .bio a:hover{
     color:white;
